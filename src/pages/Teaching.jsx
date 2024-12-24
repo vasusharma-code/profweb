@@ -27,24 +27,24 @@ const Teaching = () => {
 
   return (
     <div className="container mx-auto px-4 py-8 mt-10">
-      <h1 className="text-2xl font-bold mb-4">Teaching Experience</h1>
+      <h1 className="text-3xl text-center font-bold mb-4">Teaching Experience</h1>
 
       <div className="mb-8">
         <h2 className="text-xl font-semibold mb-2">Positions Held</h2>
         <table className="min-w-full bg-white shadow-md divide-y divide-gray-300">
-          <thead className="bg-gray-200">
+          <thead className="bg-green-600">
             <tr>
-              <th className="px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Institute</th>
-              <th className="px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Period</th>
-              <th className="px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Position</th>
+              <th className="px-4 py-2 text-left text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Institute</th>
+              <th className="px-4 py-2 text-left text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Period</th>
+              <th className="px-4 py-2 text-left text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Position</th>
             </tr>
           </thead>
           <tbody>
             {positions.map((pos, index) => (
               <tr key={index}>
-                <td className="px-4 py-2 text-center text-sm font-medium text-gray-900 border border-gray-300">{pos.institute}</td>
-                <td className="px-4 py-2 text-center text-sm text-gray-700 border border-gray-300">{pos.period}</td>
-                <td className="px-4 py-2 text-center text-sm text-gray-700 border border-gray-300">{pos.position}</td>
+                <td className="px-4 py-2 text-left text-sm font-medium text-gray-900 border border-gray-300">{pos.institute}</td>
+                <td className="px-4 py-2 text-left text-sm text-gray-700 border border-gray-300">{pos.period}</td>
+                <td className="px-4 py-2 text-left text-sm text-gray-700 border border-gray-300">{pos.position}</td>
               </tr>
             ))}
           </tbody>

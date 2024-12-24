@@ -1,14 +1,16 @@
+/* Overall Layout and Container */
 .min-h-screen {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 4rem 0; /* Adjust the padding to move the images down */
+  padding: 4rem 0;
   position: relative;
   overflow: hidden;
 }
 
+/* Background Video */
 .video-background {
   position: absolute;
   top: 0;
@@ -16,31 +18,26 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  opacity: 0.5;
+  opacity: 0.7;  /* Slight opacity to make text/images stand out */
   z-index: -1;
-  min-height: 100vh; /* Ensure the video covers the entire height */
+  min-height: 100vh;
 }
 
-@media (max-width: 768px) {
-  .video-background {
-    object-fit: fill; /* Ensure the video adjusts to fill the smaller screen */
-  }
+/* Title Styling */
+.text-shadow {
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+  color: white;
 }
 
-@media (max-width: 480px) {
-  .video-background {
-    object-fit: cover; /* Keep cover for very small screens */
-  }
-}
-
-
+/* Gallery Container */
 .gallery-container {
-  margin-top: 150px; /* Adjust this value to move the images down */
+  margin-top: 150px;
   position: relative;
   width: 100%;
   overflow: hidden;
 }
 
+/* Scrolling Images Styling */
 .scrolling-images {
   display: flex;
   flex-wrap: nowrap;
@@ -49,10 +46,19 @@
 
 .gallery-image {
   flex: 0 0 auto;
-  width: 200px; /* Adjust the width of the images as needed */
-  margin: 0 10px; /* Adjust the margin between images as needed */
+  width: 300px;  /* Increased width for larger images */
+  margin: 0 20px; /* Increased space between images */
+  border-radius: 10px; /* Rounded corners */
+  transition: transform 0.3s, opacity 0.3s; /* Smooth transitions for hover effect */
 }
 
+/* Hover Effect */
+.gallery-image:hover {
+  transform: scale(1.05); /* Slight zoom-in effect */
+  opacity: 0.8;
+}
+
+/* Scroll Animation */
 @keyframes scroll {
   from {
     transform: translateX(0);
@@ -62,19 +68,28 @@
   }
 }
 
-/* Ensure the video is responsive on smaller devices */
+/* Responsiveness for Smaller Devices */
 @media (max-width: 768px) {
-  .min-h-screen {
-    padding: 2rem 0; /* Adjust padding for smaller screens */
+  .gallery-image {
+    width: 250px;  /* Adjusted width for tablet */
+    margin: 0 15px; /* Less space for smaller screens */
   }
 
-  .gallery-image {
-    width: 150px; /* Adjust the image width for smaller screens */
+  .min-h-screen {
+    padding: 3rem 0; /* Less padding on smaller screens */
   }
 }
 
 @media (max-width: 480px) {
   .gallery-image {
-    width: 120px; /* Further adjust the image width for very small screens */
+    width: 200px; /* Adjusted width for mobile screens */
+    margin: 0 10px;
+  }
+}
+
+/* Ensure Video is Responsive */
+@media (max-width: 768px) {
+  .video-background {
+    object-fit: fill;
   }
 }

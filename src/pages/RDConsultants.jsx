@@ -1,7 +1,6 @@
-import React from 'react';
+import React from "react";
 
 const RDConsultants = () => {
-  // Data for R&D consulting (PI)
   const rdConsultingPI = [
     {
       title: "Conduct 2nd Meeting of Programme Advisory Committee on Device Development Programme of DST at Department of Mechanical Engineering",
@@ -54,7 +53,6 @@ const RDConsultants = () => {
     }
   ];
 
-  // Data for R&D consulting (CP)
   const rdConsultingCP = [
     {
       title: "Energy Efficient Buildings: Technology with Intelligence",
@@ -93,60 +91,70 @@ const RDConsultants = () => {
     }
   ];
 
+  const sortedPI = rdConsultingPI.sort((a, b) =>
+    new Date(b.startDate.split("-").reverse().join("-")) -
+    new Date(a.startDate.split("-").reverse().join("-"))
+  );
+
+  const sortedCP = rdConsultingCP.sort((a, b) =>
+    new Date(b.startDate.split("-").reverse().join("-")) -
+    new Date(a.startDate.split("-").reverse().join("-"))
+  );
+
   return (
-    <div className="container mx-auto px-4 py-8 mt-10">
-      {/* R&D Consulting (PI) Section */}
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold mb-4 text-gray-800">R&D Consulting (PI)</h1>
-        <table className="min-w-full bg-white shadow-md border border-gray-300">
-          <thead className="bg-gray-100">
-            <tr>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">Title</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">Sponsor Agency</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">Amount</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">Start Date</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">End Date</th>
-            </tr>
-          </thead>
-          <tbody className="bg-white divide-y divide-gray-300">
-            {rdConsultingPI.map((item, index) => (
-              <tr key={index}>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.title}</td>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.sponsorAgency}</td>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.amount.toLocaleString()}</td>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.startDate}</td>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.endDate}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+    <div className="font-sans p-5 max-w-3xl mx-auto min-h-screen mt-14">
+      <h1 className="text-3xl font-bold text-center mb-8">R&D Consulting</h1>
+      
+      {/* R&D Consulting (PI) */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-bold mb-5">R&D Consulting (PI)</h2>
+        <div className="grid grid-cols-1 gap-5">
+          {sortedPI.map((item, index) => (
+            <div
+              key={index}
+              className="border border-gray-300 rounded-lg p-4 shadow-md flex flex-col justify-between h-[180px] w-full"
+            >
+              <div>
+                <h2 className="text-lg font-bold text-gray-800 mb-2">{item.title}</h2>
+                <p className="text-sm text-gray-600 mb-1">
+                  <span className="font-semibold">Sponsor Agency:</span> {item.sponsorAgency}
+                </p>
+                <p className="text-sm text-gray-600 mb-1">
+                  <span className="font-semibold">Amount:</span> ₹{item.amount.toLocaleString()}
+                </p>
+                <p className="text-sm text-gray-600 mb-1">
+                  <span className="font-semibold">Duration:</span> {item.startDate} to {item.endDate}
+                </p>
+              </div>
+            </div>
+          ))}
+        </div>
       </div>
 
-      {/* R&D Consulting (CP) Section */}
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold mb-4 text-gray-800">R&D Consulting (CP)</h1>
-        <table className="min-w-full bg-white shadow-md border border-gray-300">
-          <thead className="bg-gray-100">
-            <tr>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">Title</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">Sponsor Agency</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">Amount</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">Start Date</th>
-              <th className="px-6 py-3 text-left text-xs font-medium text-gray-600 uppercase border border-gray-300">End Date</th>
-            </tr>
-          </thead>
-          <tbody className="bg-white divide-y divide-gray-300">
-            {rdConsultingCP.map((item, index) => (
-              <tr key={index}>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.title}</td>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.sponsorAgency}</td>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.amount.toLocaleString()}</td>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.startDate}</td>
-                <td className="px-6 py-4 text-sm text-gray-700 border border-gray-300">{item.endDate}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+      {/* R&D Consulting (CP) */}
+      <div className="mb-10">
+        <h2 className="text-2xl font-bold mb-5">R&D Consulting (CP)</h2>
+        <div className="grid grid-cols-1 gap-5">
+          {sortedCP.map((item, index) => (
+            <div
+              key={index}
+              className="border border-gray-300 rounded-lg p-4 shadow-md flex flex-col justify-between h-[180px] w-full"
+            >
+              <div>
+                <h2 className="text-lg font-bold text-gray-800 mb-2">{item.title}</h2>
+                <p className="text-sm text-gray-600 mb-1">
+                  <span className="font-semibold">Sponsor Agency:</span> {item.sponsorAgency}
+                </p>
+                <p className="text-sm text-gray-600 mb-1">
+                  <span className="font-semibold">Amount:</span> ₹{item.amount.toLocaleString()}
+                </p>
+                <p className="text-sm text-gray-600 mb-1">
+                  <span className="font-semibold">Duration:</span> {item.startDate} to {item.endDate}
+                </p>
+              </div>
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   );

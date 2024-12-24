@@ -16,6 +16,7 @@ import IndustrialExperience from './pages/IndustrialExperience';
 import OtherActivities from './pages/OtherActivities';
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import IAFSMPage from "./pages/IAFSMPage";
 
 
 
@@ -42,6 +43,7 @@ const locomotiveScroll = new LocomotiveScroll();
       <Route path="/teaching" element={<Teaching />} />
       <Route path="/industrial-experience" element={<IndustrialExperience />} />
       <Route path="/other-activities" element={<OtherActivities />} />
+      <Route path="/iafsm" element={<IAFSMPage />} />
     </Routes>
     <Footer/>
    </div>

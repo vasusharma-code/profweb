@@ -45,79 +45,72 @@ const Patents = () => {
   };
 
   return (
-    <div className="flex flex-col min-h-screen">
-      <div className="container mx-auto px-4 py-8 flex-grow">
-        <h1 className="text-2xl font-bold mb-6 text-center text-gray-800">Patents</h1>
-        
-        {/* Summary Table */}
-        <div className="mb-8 overflow-x-auto">
-          <h2 className="text-xl font-semibold mb-4">Patent Summary</h2>
-          <table className="min-w-full bg-white shadow-md divide-y divide-gray-300">
-            <thead className="bg-gray-200">
-              <tr>
-                <th className="w-1/3 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Type</th>
-                <th className="w-1/3 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Filed</th>
-                <th className="w-1/3 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Granted</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td className="px-4 py-2 text-sm text-center font-medium text-gray-900 border border-gray-300">Total</td>
-                <td className="px-4 py-2 text-sm text-center text-gray-700 border border-gray-300">5</td>
-                <td className="px-4 py-2 text-sm text-center text-gray-700 border border-gray-300">1</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        
+    <div className="flex flex-col min-h-screen bg-gray-100">
+      <div className="container mx-auto px-6 py-8 flex-grow">
+        <h1 className="text-3xl font-bold mb-8 text-center text-gray-900">Patents</h1>
+
+        {/* Patent Summary Section */}
+        <div className="mb-8 rounded-lg bg-white shadow-lg p-6">
+  <h2 className="text-2xl font-semibold mb-4 text-gray-800">Patent Summary</h2>
+  <div className="flex justify-center items-center text-lg text-gray-700">
+    <div className="mr-4 text-green-500 font-semibold">Filed: 5</div>
+    <div className="text-red-500 font-semibold">Granted: 1</div>
+  </div>
+</div>
+
+
         {/* Filed Patents Table */}
-        <h2 className="text-xl font-semibold mb-4">Filed Patents</h2>
-        <div className="overflow-x-auto mb-8">
-          <table className="min-w-full bg-white shadow-md divide-y divide-gray-300">
-            <thead className="bg-gray-200">
-              <tr>
-                <th className="w-1/4 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Title</th>
-                <th className="w-1/4 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Application No.</th>
-                <th className="w-1/4 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Applicant</th>
-                <th className="w-1/4 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Inventors</th>
-              </tr>
-            </thead>
-            <tbody>
-              {patents.filed.map((patent, index) => (
-                <tr key={index}>
-                  <td className="px-4 py-2 text-sm text-gray-700 border border-gray-300">{patent.title}</td>
-                  <td className="px-4 py-2 text-sm text-gray-700 border border-gray-300">{patent.applicationNo}</td>
-                  <td className="px-4 py-2 text-sm text-gray-700 border border-gray-300">{patent.applicant}</td>
-                  <td className="px-4 py-2 text-sm text-gray-700 border border-gray-300">{patent.inventors.join(', ')}</td>
+        <div className="mb-8">
+          <h2 className="text-xl font-semibold mb-4 text-gray-800">Filed Patents</h2>
+          <div className="overflow-x-auto shadow-lg rounded-lg bg-white">
+            <table className="min-w-full table-auto">
+              <thead className="bg-gradient-to-r from-gray-200 to-gray-300 text-gray-700">
+                <tr>
+                  <th className="w-1/4 px-4 py-2 text-center text-xs font-medium uppercase tracking-wider">Title</th>
+                  <th className="w-1/4 px-4 py-2 text-center text-xs font-medium uppercase tracking-wider">Application No.</th>
+                  <th className="w-1/4 px-4 py-2 text-center text-xs font-medium uppercase tracking-wider">Applicant</th>
+                  <th className="w-1/4 px-4 py-2 text-center text-xs font-medium uppercase tracking-wider">Inventors</th>
                 </tr>
-              ))}
-            </tbody>
-          </table>
+              </thead>
+              <tbody>
+                {patents.filed.map((patent, index) => (
+                  <tr key={index} className={`border-b border-gray-300 hover:bg-gray-100 ${index % 2 === 0 ? 'bg-gray-50' : ''}`}>
+                    <td className="px-4 py-2 text-sm text-gray-700">{patent.title}</td>
+                    <td className="px-4 py-2 text-sm text-gray-700">{patent.applicationNo}</td>
+                    <td className="px-4 py-2 text-sm text-gray-700">{patent.applicant}</td>
+                    <td className="px-4 py-2 text-sm text-gray-700">{patent.inventors.join(', ')}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </div>
-        
+
         {/* Granted Patents Table */}
-        <h2 className="text-xl font-semibold mb-4">Granted Patents</h2>
-        <div className="overflow-x-auto">
-          <table className="min-w-full bg-white shadow-md divide-y divide-gray-300">
-            <thead className="bg-gray-200">
-              <tr>
-                <th className="w-1/4 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Title</th>
-                <th className="w-1/4 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Application No.</th>
-                <th className="w-1/4 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Applicant</th>
-                <th className="w-1/4 px-4 py-2 text-center text-xs font-medium text-gray-700 uppercase tracking-wider border border-gray-300">Inventors</th>
-              </tr>
-            </thead>
-            <tbody>
-              {patents.granted.map((patent, index) => (
-                <tr key={index}>
-                  <td className="px-4 py-2 text-sm text-gray-700 border border-gray-300">{patent.title}</td>
-                  <td className="px-4 py-2 text-sm text-gray-700 border border-gray-300">{patent.applicationNo}</td>
-                  <td className="px-4 py-2 text-sm text-gray-700 border border-gray-300">{patent.applicant}</td>
-                  <td className="px-4 py-2 text-sm text-gray-700 border border-gray-300">{patent.inventors.join(', ')}</td>
+        <div>
+          <h2 className="text-xl font-semibold mb-4 text-gray-800">Granted Patents</h2>
+          <div className="overflow-x-auto shadow-lg rounded-lg bg-white">
+            <table className="min-w-full table-auto">
+              <thead className="bg-gradient-to-r from-gray-200 to-gray-300 text-gray-700">
+                <tr>
+                  <th className="w-1/4 px-4 py-2 text-center text-xs font-medium uppercase tracking-wider">Title</th>
+                  <th className="w-1/4 px-4 py-2 text-center text-xs font-medium uppercase tracking-wider">Application No.</th>
+                  <th className="w-1/4 px-4 py-2 text-center text-xs font-medium uppercase tracking-wider">Applicant</th>
+                  <th className="w-1/4 px-4 py-2 text-center text-xs font-medium uppercase tracking-wider">Inventors</th>
                 </tr>
-              ))}
-            </tbody>
-          </table>
+              </thead>
+              <tbody>
+                {patents.granted.map((patent, index) => (
+                  <tr key={index} className={`border-b border-gray-300 hover:bg-gray-100 ${index % 2 === 0 ? 'bg-gray-50' : ''}`}>
+                    <td className="px-4 py-2 text-sm text-gray-700">{patent.title}</td>
+                    <td className="px-4 py-2 text-sm text-gray-700">{patent.applicationNo}</td>
+                    <td className="px-4 py-2 text-sm text-gray-700">{patent.applicant}</td>
+                    <td className="px-4 py-2 text-sm text-gray-700">{patent.inventors.join(', ')}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
     </div>

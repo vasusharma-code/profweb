@@ -158,28 +158,82 @@ const ConferencePapers = () => {
       pages: "216-223"
     }
   ];
+ // Extract year from date or assign default for sorting
+ const getYear = (dateString) => {
+  const match = dateString?.match(/\d{4}/);
+  return match ? parseInt(match[0]) : 0; // Default year 0 if not found
+};
 
-  return (
-    <div className="container mx-auto px-4 py-8 mt-10">
-      <h1 className="text-2xl font-bold mb-4">Conference Papers</h1>
-      <ol className="list-decimal list-inside">
-        {papers.map((paper) => (
-          <li key={paper.number} className="mb-4">
-            <p><strong>Authors:</strong> {paper.authors}</p>
-            <p><strong>Title:</strong> {paper.title}</p>
-            <p><strong>Event:</strong> {paper.event}</p>
-            {paper.date && <p><strong>Date:</strong> {paper.date}</p>}
-            {paper.location && <p><strong>Location:</strong> {paper.location}</p>}
-            {paper.pages && <p><strong>Pages:</strong> {paper.pages}</p>}
-            {paper.publisher && <p><strong>Publisher:</strong> {paper.publisher}</p>}
-            {paper.status && <p><strong>Status:</strong> {paper.status}</p>}
-            {paper.volume && <p><strong>Volume:</strong> {paper.volume}</p>}
-            {paper.doi && <p><strong>DOI:</strong> <a href={paper.doi} className="text-blue-600" target="_blank" rel="noopener noreferrer">{paper.doi}</a></p>}
-          </li>
-        ))}
-      </ol>
+// Sort papers by year in descending order
+const sortedPapers = papers.sort((a, b) => getYear(b.date || "") - getYear(a.date || ""));
+
+return (
+  <div className="flex items-center justify-center min-h-screen">
+    <div className="container mx-auto px-4 py-8 max-w-3xl">
+      <h1 className="text-3xl font-bold text-center mb-8">Conference Papers</h1>
+      {sortedPapers.map((paper) => (
+        <div
+          key={paper.number}
+          className="border border-gray-300 rounded-lg p-4 shadow-md bg-white mb-6"
+        >
+          <p className="text-sm text-gray-600 mb-1">
+            <span className="font-bold mr-2">{paper.number}.</span>
+            <strong className="font-semibold">Authors:</strong> {paper.authors}
+          </p>
+          <p className="text-lg font-bold text-gray-800 mb-2">
+            <strong className="font-semibold">Title:</strong> {paper.title}
+          </p>
+          <p className="text-sm text-gray-600 mb-1">
+            <strong className="font-semibold">Event:</strong> {paper.event}
+          </p>
+          {paper.date && (
+            <p className="text-sm text-gray-600 mb-1">
+              <strong className="font-semibold">Date:</strong> {paper.date}
+            </p>
+          )}
+          {paper.location && (
+            <p className="text-sm text-gray-600 mb-1">
+              <strong className="font-semibold">Location:</strong> {paper.location}
+            </p>
+          )}
+          {paper.pages && (
+            <p className="text-sm text-gray-600 mb-1">
+              <strong className="font-semibold">Pages:</strong> {paper.pages}
+            </p>
+          )}
+          {paper.publisher && (
+            <p className="text-sm text-gray-600 mb-1">
+              <strong className="font-semibold">Publisher:</strong> {paper.publisher}
+            </p>
+          )}
+          {paper.status && (
+            <p className="text-sm text-gray-600 mb-1">
+              <strong className="font-semibold">Status:</strong> {paper.status}
+            </p>
+          )}
+          {paper.volume && (
+            <p className="text-sm text-gray-600 mb-1">
+              <strong className="font-semibold">Volume:</strong> {paper.volume}
+            </p>
+          )}
+          {paper.doi && (
+            <p className="text-sm text-gray-600">
+              <strong className="font-semibold">DOI:</strong>{" "}
+              <a
+                href={paper.doi}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-500 hover:underline"
+              >
+                {paper.doi}
+              </a>
+            </p>
+          )}
+        </div>
+      ))}
     </div>
-  );
+  </div>
+);
 };
 
 export default ConferencePapers;
