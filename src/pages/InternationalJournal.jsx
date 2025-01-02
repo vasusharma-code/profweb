@@ -688,44 +688,45 @@ const InternationalJournal = () => {
 		const sortedPapers = papers.sort((a, b) => b.year - a.year);
 
 		return (
-		  <div className="font-sans p-5 max-w-3xl mx-auto min-h-screen mt-14">
-			<h1 className="text-3xl font-bold text-center mb-8">International Journal Publications</h1>
-			<div className="grid grid-cols-1 gap-5">
-			  {sortedPapers.map((paper, index) => (
-				<div
-				  key={index}
-				  className="border border-gray-300 rounded-lg p-4 shadow-md flex flex-col justify-between h-[180px] w-full"
-				>
-				  <div>
-					<h2 className="text-lg font-bold text-gray-800 mb-2">{paper.title}</h2>
-					<p className="text-sm text-gray-600 mb-1">
-					  <span className="font-semibold">Authors:</span> {paper.authors}
-					</p>
-					<p className="text-sm text-gray-600 mb-1">
-					  <span className="font-semibold">Journal:</span> {paper.journal}
-					</p>
-					<p className="text-sm text-gray-600 mb-1">
-					  <span className="font-semibold">Volume:</span> {paper.volume || "N/A"} |{" "}
-					  <span className="font-semibold">Year:</span> {paper.year} |{" "}
-					  <span className="font-semibold">Pages:</span> {paper.pages || "N/A"}
-					</p>
-				  </div>
-				  <p className="text-sm text-gray-600">
-					<span className="font-semibold">DOI:</span>{" "}
-					<a
-					  href={paper.doi}
-					  target="_blank"
-					  rel="noopener noreferrer"
-					  className="text-blue-500 hover:underline"
+			<div className="font-sans p-5 mx-auto min-h-screen mt-14 overflow-x-hidden">
+			  <div className="max-w-3xl mx-auto"> {/* Center the content and control the width */}
+				<h1 className="text-3xl font-bold text-center mb-8">International Journal Publications</h1>
+				<div className="grid grid-cols-1 gap-5">
+				  {sortedPapers.map((paper, index) => (
+					<div
+					  key={index}
+					  className="border border-gray-300 rounded-lg p-4 shadow-md flex flex-col justify-between h-auto w-full"
 					>
-					  {paper.doi}
-					</a>
-				  </p>
+					  <div>
+						<h2 className="text-lg font-bold text-gray-800 mb-2">{paper.title}</h2>
+						<p className="text-sm text-gray-600 mb-1">
+						  <span className="font-semibold">Authors:</span> {paper.authors}
+						</p>
+						<p className="text-sm text-gray-600 mb-1">
+						  <span className="font-semibold">Journal:</span> {paper.journal}
+						</p>
+						<p className="text-sm text-gray-600 mb-1">
+						  <span className="font-semibold">Volume:</span> {paper.volume || "N/A"} |{" "}
+						  <span className="font-semibold">Year:</span> {paper.year} |{" "}
+						  <span className="font-semibold">Pages:</span> {paper.pages || "N/A"}
+						</p>
+					  </div>
+					  <p className="text-sm text-gray-600">
+						<span className="font-semibold">DOI:</span>{" "}
+						<a
+						  href={paper.doi}
+						  target="_blank"
+						  rel="noopener noreferrer"
+						  className="text-blue-500 hover:underline"
+						>
+						  {paper.doi}
+						</a>
+					  </p>
+					</div>
+				  ))}
 				</div>
-			  ))}
+			  </div>
 			</div>
-		  </div>
-		);
-	  };
-	  
-	  export default InternationalJournal;
+		  );
+		}
+		export default InternationalJournal;		  

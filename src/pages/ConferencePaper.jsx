@@ -168,7 +168,7 @@ const ConferencePapers = () => {
 const sortedPapers = papers.sort((a, b) => getYear(b.date || "") - getYear(a.date || ""));
 
 return (
-  <div className="flex items-center justify-center min-h-screen">
+  <div className="flex items-center justify-center min-h-screen mt-14">
     <div className="container mx-auto px-4 py-8 max-w-3xl">
       <h1 className="text-3xl font-bold text-center mb-8">Conference Papers</h1>
       {sortedPapers.map((paper) => (
