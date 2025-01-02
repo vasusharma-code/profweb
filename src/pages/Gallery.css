@@ -1,13 +1,13 @@
-/* Gallery.css */
-
+/* General Styling */
 .gallery-page {
   position: relative;
   min-height: 100vh;
-  padding: 40px 0;
+  padding: 20px;
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   font-family: Arial, sans-serif;
 }
+
 /* Background Video */
 .video-background {
   position: fixed;
@@ -20,51 +20,58 @@
   opacity: 0.8;
 }
 
-/* Smaller Images Container */
-.small-galleries-wrapper {
+/* Title Section */
+.gallery-title {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* Gallery Sections */
+.gallery-section {
   display: flex;
+  align-items: center;
   justify-content: center;
-  gap: 300px;
-  margin: 60px auto;
-  max-width: 1000px;
+  margin: 40px auto;
+  max-width: 1200px;
+  gap: 40px;
+  padding: 20px;
+}
+
+.gallery-section.reverse-layout {
+  flex-direction: row-reverse;
+}
+
+/* Image Styling */
+.gallery-image img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  border-radius: 2px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: transform 0.4s ease;
+}
+
+.gallery-image img:hover {
+  transform: scale(1.05);
+}
+
+/* Text Styling */
+.gallery-text {
+  flex: 1;
   padding: 0 20px;
 }
 
-.small-gallery-container {
-  flex: 1;
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 25px;
-  max-width: 500px;
-  margin: 20px auto;
+.gallery-text h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
 }
 
-/* Small Image Wrapper */
-.small-image-wrapper {
-  position: relative;
-  overflow: hidden;
-  border-radius: 0px;
-  cursor: pointer;
-  transition: all 0.4s ease;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-}
-
-.small-image-wrapper:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
-}
-
-/* Small Gallery Image */
-.small-gallery-image {
-  width: 100%;
-  height: 300px;
-  object-fit: cover;
-  transition: transform 0.4s ease;
-  border-radius: 0px;
-}
-
-.small-image-wrapper:hover .small-gallery-image {
-  transform: scale(1.05);
+.gallery-text p {
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
 /* Fullscreen Modal */
@@ -134,21 +141,19 @@
   }
 }
 
-/* Responsiveness */
+/* Responsive Design */
 @media (max-width: 768px) {
-  .small-galleries-wrapper {
+  .gallery-section {
     flex-direction: column;
-    gap: 20px;
-    align-items: center;
   }
 
-  .small-gallery-container {
-    width: 90%;
-    margin: 0 auto;
+  .gallery-section.reverse-layout {
+    flex-direction: column;
   }
 
-  .small-gallery-image {
-    height: 250px;
+  .gallery-text {
+    text-align: center;
+    padding: 10px;
   }
 
   .close-button {
@@ -161,7 +166,15 @@
 }
 
 @media (max-width: 480px) {
-  .small-gallery-image {
-    height: 100px; /* Adjusted for smaller screens */
+  .gallery-title {
+    font-size: 2rem;
+  }
+
+  .gallery-image img {
+    max-width: 100%;
+  }
+
+  .gallery-text h2 {
+    font-size: 1.5rem;
   }
 }
