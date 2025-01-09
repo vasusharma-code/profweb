@@ -1,0 +1,1071 @@
+Prof. Sunil Jha
+Dr. Sunil Jha, a distinguished professor in the Department of Mechanical Engineering at IIT Delhi, holds a Ph.D. in Manufacturing Science from IIT Kanpur. With over 17 years of teaching and research experience, his expertise lies in manufacturing processes and automation. He has pioneered several unconventional super finishing processes, filing 12 patents, with some technologies being successfully commercialized.
+Before joining IIT Delhi, Dr. Sunil Jha worked with TATA Motors in Jamshedpur, focusing on CAD/CAM and digitizing engine components for foundry tool development. At IIT Delhi, his research and teaching interests include automation in manufacturing, computer-aided manufacturing, and industrial automation, which he shares with both undergraduate and postgraduate students. Dr. Jha has led numerous training programs for industry professionals and educators and developed online courses on Industry 4.0 technologies. Currently, he heads the IITD-AIA Foundation for Smart Manufacturing, collaborating with the manufacturing industry to adopt new technologies and prepare for the next industrial revolution.
+
+
+International Jonural by Sunil jha:-
+Augmented Reality Implementation for Fault Diagnosis on Robotic Welding Cell
+Authors: Dheeraj R, Markande A, Chandrashekhara K.L ,Sadagopan V ,Joshi ,Jha S
+
+Journal: Lecture Notes in Mechanical Engineering
+
+Volume: N/A | Year: 2023 | Pages: 91-101
+
+DOI: DOI:10.1007/978-981-19-0561-2_9
+
+Computational-sampling-moiré-based on-machine alignment for freeform optics
+Authors: V. Mishra, N. Dubey, M.P. Singh, R. Kumar, S. Kar, S. Jha, L.D. Mayer, D. Kim, G.S. Khan
+
+Journal: Optics Letters
+
+Volume: 48 | Year: 2023 | Pages: 1934-1937
+
+DOI: https://doi.org/10.1364/OL.485524
+
+Experimental investigations into additive manufacturing of styrene-ethylene-butylene-styrene block copolymers using solvent cast 3D printing technique
+Authors: A. Kumar, P.M. Pandey, S. Jha, S.S. Banerjee
+
+Journal: Rapid Prototyping Journal
+
+Volume: N/A | Year: 2023 | Pages: N/A
+
+DOI: https://doi.org/10.1108/RPJ-08-2022-0249
+
+Accuracy of Patient-Specific, 3D-Printed Laminofacetal Based Trajectory-Guide for Pedicle Screw Placement in Subaxial Cervical and Thoracic Spine
+Authors: A. Kashyap, A. Karim, S. Arora, K. Singh, S. Jha, L. Maini
+
+Journal: Neurology India
+
+Volume: 71 | Year: 2023 | Pages: 260-266
+
+DOI: https://doi.org/10.4103/0028-3886.375394
+
+Industrial Application of Augmented Reality: Maintenance of Multi-process Robotic Cell
+Authors: S. Pabitwar, V. Sadagopan, P. Joshi, S. Jha
+
+Journal: Lecture Notes in Mechanical Engineering
+
+Volume: N/A | Year: 2023 | Pages: 81-90
+
+DOI: https://doi.org/10.1007/978-981-19-0561-2_8
+
+Theoretical and Experimental Study on Forces in Ball End Magnetorheological Finishing Process
+Authors: Z. Alam, D.A. Khan, F. Iqbal, S. Jha
+
+Journal: Lecture Notes in Mechanical Engineering
+
+Volume: N/A | Year: 2023 | Pages: 391-401
+
+DOI: https://doi.org/10.1007/978-981-19-3866-5_33
+
+Comparative investigation of laser assisted hybrid microgrinding methods
+Authors: A.K. Sahu, J. Malhotra, S. Jha
+
+Journal: Materials Letters
+
+Volume: 330 | Year: 2023 | Pages: N/A
+
+DOI: https://doi.org/10.1016/j.matlet.2022.133239
+
+Data Acquisition and Data Visualization Framework for Smart Manufacturing
+Authors: D. Atray, V. Sadagopan, S. Jha
+
+Journal: Lecture Notes in Mechanical Engineering
+
+Volume: N/A | Year: 2023 | Pages: 139-148
+
+DOI: https://doi.org/10.1007/978-981-19-0561-2_13
+
+The effect of temperature and dwell time on diamond-WC brazed joint quality using low-melting point active Ag-Cu-In alloy
+Authors: H.A. Patel, P. Mukhopadhyay, S. Ghosh, S. Jha
+
+Journal: Diamond and Related Materials
+
+Volume: 139 | Year: 2023 | Pages: N/A
+
+DOI: https://doi.org/10.1016/j.diamond.2023.110308
+
+Autonomous Navigation for Mobile Robots with Sensor Fusion Technology
+Authors: V. Raja, D. Talwar, A. Manchikanti, S. Jha
+
+Journal: Lecture Notes in Mechanical Engineering
+
+Volume: N/A | Year: 2023 | Pages: 13-23
+
+DOI: https://doi.org/10.1007/978-981-19-0561-2_2
+
+Automated insular surface finishing by ball end magnetorheological finishing process
+Authors: F. Iqbal, Z. Alam, D.A. Khan, S. Jha
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 37 | Year: 2022 | Pages: 437-447
+
+DOI: https://doi.org/10.1080/10426914.2021.2001502
+
+Mathematical modelling for prediction of surface roughness in Pneumatically Configurable Polishing process
+Authors: T. Verma, O. Chawla, S. Jha
+
+Journal: Wear
+
+Volume: 504-505 | Year: 2022 | Pages: N/A
+
+DOI: https://doi.org/10.1016/j.wear.2022.204434
+
+Hybrid laser and micro milling methods for higher depth microchannel fabrication
+Authors: A.K. Sahu, S. Jha
+
+Journal: Journal of Manufacturing Processes
+
+Volume: 81 | Year: 2022 | Pages: 672-679
+
+DOI: https://doi.org/10.1016/j.jmapro.2022.07.018
+
+Laser-based hybrid micromachining processes: A review
+Authors: A.K. Sahu, J. Malhotra, S. Jha
+
+Journal: Optics and Laser Technology
+
+Volume: 146 | Year: 2022 | Pages: N/A
+
+DOI: https://doi.org/10.1016/j.optlastec.2021.107554
+
+Effects of Various Scan Strategies on Laser Micromilling of SiAlON Ceramic
+Authors: A.K. Sahu, J. Malhotra, S. Jha
+
+Journal: Lasers in Engineering
+
+Volume: 53 | Year: 2022 | Pages: 299-319
+
+DOI:
+
+Experimental investigation and machine parameter optimization for nano finishing of fused silica using magnetorheological finishing process
+Authors: M.K. Gupta, D. Dinakar, I.M. Chhabra, S. Jha, B.S. Madireddy
+
+Journal: Optik
+
+Volume: 226 | Year: 2021 | Pages: N/A
+
+DOI: https://doi.org/10.1016/j.ijleo.2020.165908
+
+Modeling and analysis of forces and finishing spot size in the ball end magnetorheological finishing (BEMRF) process
+Authors: Z. Alam, F. Iqbal, S. Jha
+
+Journal: Machining and Tribology: Processes, Surfaces, Coolants, and Modeling
+
+Volume: N/A | Year: 2021 | Pages: 127-161
+
+DOI: https://doi.org/10.1016/B978-0-12-819889-6.00008-3
+
+Experimental investigation of nano second fiber laser micro grooving on cylindrical surface
+Authors: R. Poddar, A.K. Sahu, S. Jha
+
+Journal: Materials Today: Proceedings
+
+Volume: 44 | Year: 2021 | Pages: 2005-2012
+
+DOI: https://doi.org/10.1016/j.matpr.2020.12.120
+
+Fuzzy c-means clustering based colour image segmentation for tool wear monitoring in micro-milling
+Authors: J. Malhotra, S. Jha
+
+Journal: Precision Engineering
+
+Volume: 72 | Year: 2021 | Pages: 690-705
+
+DOI: https://doi.org/10.1016/j.precisioneng.2021.07.013
+
+Microchannel fabrication and metallurgical characterization on titanium by nanosecond fiber laser micromilling
+Authors: A.K. Sahu, S. Jha
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 35 | Year: 2020 | Pages: 279-290
+
+DOI: https://doi.org/10.1080/10426914.2020.1718702
+
+Experimental Study of Nano-Structured Diamond Coated Tool for Cutting and Surface Finish Enhancement in Micromachining
+Authors: V. Mishra, D. Sabharwal, M. Kumar, S. Jha, R. Kumar
+
+Journal: Procedia CIRP
+
+Volume: 91 | Year: 2020 | Pages: 243-248
+
+DOI: https://doi.org/10.1016/j.procir.2020.03.153
+
+Surface finish prediction in micro-milling using response surface methodology
+Authors: S. Jha, V. Mishra
+
+Journal: International Journal of Advanced Manufacturing Technology
+
+Volume: 104 | Year: 2019 | Pages: 2003-2016
+
+DOI: https://doi.org/10.1007/s00170-019-03893-x
+
+Design and development of an abrasive jet machining system for precision micro-machining
+Authors: A. Sahu, S. Jha
+
+Journal: Journal of Manufacturing Processes
+
+Volume: 40 | Year: 2019 | Pages: 262-276
+
+DOI: https://doi.org/10.1016/j.jmapro.2019.03.002
+
+Investigation of cutting force and surface finish in micro-milling of copper using uncoated carbide tools
+Authors: S. Jha, V. Mishra
+
+Journal: Wear
+
+Volume: 416-417 | Year: 2018 | Pages: 132-144
+
+DOI: https://doi.org/10.1016/j.wear.2018.07.012
+
+Modeling of surface roughness in ball end magnetorheological finishing (BEMRF) process
+Authors: Z. Alam, S. Jha
+
+Journal: Wear
+
+Volume: 374-375C | Year: 2017 | Pages: 54-62
+
+DOI: https://doi.org/10.1016/j.wear.2017.04.007
+
+Synthesis of polishing fluid and novel approach for nanofinishing of copper using ball end magnetorheological finishing process
+Authors: D.A. Khan, S. Jha
+
+Journal: Materials and Manufacturing Processes
+
+Volume: N/A | Year: 2017 | Pages: N/A
+
+DOI: http://dx.doi.org/10.1080/10426914.2017.1328112
+
+A study on the effect of polishing fluid volume in ball end magnetorheological finishing process
+Authors: Z Alam, D.A Khan, S. Jha
+
+Journal: Materials and Manufacturing Processes
+
+Volume: N/A | Year: 2017 | Pages: N/A
+
+DOI: http://dx.doi.org/10.1080/10426914.2017.1364760
+
+Selection of optimum polishing fluid composition for Ball end magnetorheological finishing (BEMRF) of copper
+Authors: D.A. Khan, S. Jha
+
+Journal: IJAMT
+
+Volume: N/A | Year: 2017 | Pages: N/A
+
+DOI: https://doi.org/10.1007/s00170-017-1056-9
+
+Rheological behaviour of magnetorheological polishing fluid for Si polishing
+Authors: K. Saraswathamma, S. Jha, P.V. Rao
+
+Journal: Materials Today: Proceedings
+
+Volume: 4/2 | Year: 2017 | Pages: 1478-1491
+
+DOI: https://doi.org/10.1016/j.matpr.2017.01.170
+
+Magneto-rheological nano-finishing of polycarbonate
+Authors: D.A. Khan, J. Kumar, S. Jha
+
+Journal: International Journal of Precision Technology
+
+Volume: 6/2 | Year: 2016 | Pages: 89-100
+
+DOI: https://doi.org/10.1504/IJPTECH.2016.078176
+
+Statistical analysis of magnetorheological ball end finishing parameters using response surface methodology
+Authors: N.M. Singh, S. Jha
+
+Journal: International Journal of Manufacturing Technology and Management
+
+Volume: 30/3-4 | Year: 2016 | Pages: 240-252
+
+DOI: https://doi.org/10.1504/IJMTM.2016.077814
+
+Three dimensional printing and patient-specific pre contoured plate: future of acetabulum fracture fixation?
+Authors: L. Maini, A. Sharma, S. Jha, A. Tiwari
+
+Journal: European Journal of Trauma and Emergency Surgery
+
+Volume: N/A | Year: 2016 | Pages: 1-10
+
+DOI: https://doi.org/10.1007/s00068-016-0738-6
+
+Optimum selection of machining parameters in ball end magnetorheological finishing process
+Authors: N.M. Singh, S. Jha
+
+Journal: International Journal of Precision Technology
+
+Volume: 5/3-4 | Year: 2015 | Pages: 217-228
+
+DOI: https://doi.org/10.1504/IJPTECH.2015.073826
+
+Design of parallel plate magnetorheometer for evaluating properties of magnetorheological polishing fluid
+Authors: K. Saraswathamma, S. Jha, P.V. Rao
+
+Journal: Materials Today Proceedings
+
+Volume: 2/4-5 | Year: 2015 | Pages: 3251-3259
+
+DOI: https://doi.org/10.1016/j.matpr.2015.07.134
+
+Rheological characterization of MR polishing fluid used for silicon polishing in BEMRF process
+Authors: K. Saraswathamma, S. Jha, P.V. Rao
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 30/5 | Year: 2015 | Pages: 661-668
+
+DOI: http://dx.doi.org/10.1080/10426914.2014.994767
+
+Modelling of high speed selective jet electrodeposition process
+Authors: R.M. Singh, P.M. Pandey, S. Jha
+
+Journal: Journal of Manufacturing Processes
+
+Volume: 17 | Year: 2015 | Pages: 98-107
+
+DOI: https://doi.org/10.1016/j.jmapro.2014.07.012
+
+Performance analysis of ball end magnetorheological finishing process with MR polishing fluid
+Authors: A.K. Singh, S. Jha, P.M. Pandey
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 30/12 | Year: 2015 | Pages: 1482-1489
+
+DOI: http://dx.doi.org/10.1080/10426914.2015.1019098
+
+Automated control of three axis CNC ball end magneto-rheological finishing machine using PLC
+Authors: Z. Alam, F. Iqbal, S. Jha
+
+Journal: International Journal of Automation and Control
+
+Volume: 9/3 | Year: 2015 | Pages: 201-210
+
+DOI: https://doi.org/10.1504/IJAAC.2015.070956
+
+Experimental investigation into tool aging effect in ball end magnetorheological finishing
+Authors: N.M. Singh, S. Jha
+
+Journal: The International Journal of Advanced Manufacturing Technology
+
+Volume: 80/9-12 | Year: 2015 | Pages: 1895-1902
+
+DOI: https://doi.org/10.1007/s00170-015-6996-3
+
+Experimental investigation into ball end magnetorheological finishing of silicon
+Authors: K. Saraswathamma, S. Jha, P.V. Rao
+
+Journal: Precision Engineering
+
+Volume: 42 | Year: 2015 | Pages: 218-223
+
+DOI: https://doi.org/10.1016/j.precisioneng.2015.05.003
+
+Micromanufacturing by selective jet electrodeposition process
+Authors: R.M. Singh, P.M. Pandey, S. Jha
+
+Journal: The International Journal of Advanced Manufacturing Technology
+
+Volume: 76/1-4 | Year: 2015 | Pages: 61-67
+
+DOI: https://doi.org/10.1007/s00170-013-5470-3
+
+Fabrication of nano-sized grain micro features using ultrasonic-assisted jet electrodeposition with pulsed current supply
+Authors: R.M. Singh, P.M. Pandey, S. Jha
+
+Journal: Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture
+
+Volume: 228/11 | Year: 2014 | Pages: 1338-1349
+
+DOI: https://doi.org/10.1177/0954405413520142
+
+Ball end magnetorheological finishing using bidisperse magnetorheological polishing fluid
+Authors: N. Mahendra, S. Jha, R.K. Kotnala
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 29/4 | Year: 2014 | Pages: 487-492
+
+DOI: http://dx.doi.org/10.1080/10426914.2014.892609
+
+Flow behaviour of bidisperse MR polishing fluid and ball end MR finishing
+Authors: N.M. Singh, S. Jha
+
+Journal: Procedia Materials Science
+
+Volume: 6 | Year: 2014 | Pages: 798-804
+
+DOI: https://doi.org/10.1016/j.mspro.2014.07.096
+
+Experimental investigations into ultrasonic-assisted jet electrodeposition process
+Authors: R.M. Singh, P.M. Pandey, S. Jha
+
+Journal: Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture
+
+Volume: 228/8 | Year: 2014 | Pages: 1162-1172
+
+DOI: https://doi.org/10.1177/0954405414526223
+
+Enhancement of surface finish of magnetorheological polishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Advanced Manufacturing Technology
+
+Volume: 69/5-6 | Year: 2014 | Pages: 2201-2210
+
+DOI: https://doi.org/10.1007/s00170-013-5618-4
+
+Effect of magnetic field on the surface finish in ball end magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 29/1 | Year: 2014 | Pages: 44-53
+
+DOI: http://dx.doi.org/10.1080/10426914.2013.795012
+
+Study on the effect of process parameters on the performance of magnetorheological finishing process
+Authors: S. Jha, N. Mahendra
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 28/4 | Year: 2013 | Pages: 438-448
+
+DOI: http://dx.doi.org/10.1080/10426914.2012.742434
+
+Surface finish improvement in magnetorheological finishing process using novel polishing fluids
+Authors: S. Jha, R.K. Kotnala
+
+Journal: International Journal of Precision Engineering and Manufacturing
+
+Volume: 14/6 | Year: 2013 | Pages: 831-841
+
+DOI: https://doi.org/10.1007/s12541-013-0085-1
+
+Development of a magnetorheological polishing system for precision engineering applications
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Journal of Manufacturing Processes
+
+Volume: 15 | Year: 2013 | Pages: 367-375
+
+DOI: https://doi.org/10.1016/j.jmapro.2012.10.004
+
+Optimization of polishing parameters in ball end magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: The International Journal of Advanced Manufacturing Technology
+
+Volume: 65/1-4 | Year: 2013 | Pages: 83-91
+
+DOI: https://doi.org/10.1007/s00170-012-4096-8
+
+Performance evaluation of magnetorheological finishing process with novel polishing fluids
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Precision Engineering
+
+Volume: 37/1 | Year: 2013 | Pages: 31-41
+
+DOI: https://doi.org/10.1016/j.precisioneng.2012.04.001
+
+Characterization of magnetorheological polishing fluid for improved surface finish
+Authors: S. Jha, R.K. Kotnala
+
+Journal: International Journal of Machine Tools and Manufacture
+
+Volume: 64 | Year: 2013 | Pages: 67-75
+
+DOI: https://doi.org/10.1016/j.ijmachtools.2012.11.003
+
+Influence of magnetic field on the performance of magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 27/8 | Year: 2012 | Pages: 888-896
+
+DOI: http://dx.doi.org/10.1080/10426914.2011.641277
+
+Analysis of surface roughness in ball end magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: International Journal of Advanced Manufacturing Technology
+
+Volume: 61/5-8 | Year: 2012 | Pages: 645-654
+
+DOI: https://doi.org/10.1007/s00170-011-3425-2
+
+Effect of polishing fluid properties on the performance of magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Journal of Manufacturing Processes
+
+Volume: 14/3 | Year: 2012 | Pages: 260-270
+
+DOI: https://doi.org/10.1016/j.jmapro.2012.03.006
+
+Development of a novel magnetorheological polishing fluid for precision applications
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Precision Engineering
+
+Volume: 36/4 | Year: 2012 | Pages: 586-594
+
+DOI: https://doi.org/10.1016/j.precisioneng.2012.02.004
+
+Optimization of process parameters in ball end magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: The International Journal of Advanced Manufacturing Technology
+
+Volume: 58/1-4 | Year: 2012 | Pages: 107-115
+
+DOI: https://doi.org/10.1007/s00170-011-3616-8
+
+Characterization and performance analysis of magnetorheological polishing fluid
+Authors: S. Jha, R.K. Kotnala
+
+Journal: International Journal of Machine Tools and Manufacture
+
+Volume: 51/5 | Year: 2011 | Pages: 367-374
+
+DOI: https://doi.org/10.1016/j.ijmachtools.2010.12.001
+
+Performance evaluation of magnetorheological polishing process with different polishing fluids
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Journal of Manufacturing Processes
+
+Volume: 13/4 | Year: 2011 | Pages: 242-250
+
+DOI: https://doi.org/10.1016/j.jmapro.2011.01.002
+
+Optimization of surface finish in ball end magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Precision Engineering
+
+Volume: 35/3 | Year: 2011 | Pages: 444-453
+
+DOI: https://doi.org/10.1016/j.precisioneng.2010.11.002
+
+Development of a novel magnetorheological polishing process for precision engineering applications
+Authors: S. Jha, R.K. Kotnala
+
+Journal: The International Journal of Advanced Manufacturing Technology
+
+Volume: 49/9-12 | Year: 2010 | Pages: 1059-1070
+
+DOI: https://doi.org/10.1007/s00170-009-2391-6
+
+Analysis of process parameters in ball end magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Materials and Manufacturing Processes
+
+Volume: 25/8 | Year: 2010 | Pages: 987-996
+
+DOI: http://dx.doi.org/10.1080/10426910903143068
+
+Investigation of magnetorheological polishing process for precision applications
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Journal of Manufacturing Processes
+
+Volume: 12/3 | Year: 2010 | Pages: 156-164
+
+DOI: https://doi.org/10.1016/j.jmapro.2010.03.002
+
+Effect of process parameters on the performance of ball end magnetorheological finishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Precision Engineering
+
+Volume: 34/1 | Year: 2010 | Pages: 75-85
+
+DOI: https://doi.org/10.1016/j.precisioneng.2009.05.003
+
+Development of a high precision magnetorheological polishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: International Journal of Machine Tools and Manufacture
+
+Volume: 50/6 | Year: 2010 | Pages: 541-549
+
+DOI: https://doi.org/10.1016/j.ijmachtools.2009.12.005
+
+Optimization of polishing parameters in magnetorheological finishing process for improved surface finish
+Authors: S. Jha, R.K. Kotnala
+
+Journal: Journal of Manufacturing Processes
+
+Volume: 11/2 | Year: 2009 | Pages: 78-87
+
+DOI: https://doi.org/10.1016/j.jmapro.2009.02.003
+
+Investigation into the performance of ball end magnetorheological finishing process with novel polishing fluids
+Authors: S. Jha, R.K. Kotnala
+
+Journal: International Journal of Precision Engineering and Manufacturing
+
+Volume: 10/3 | Year: 2009 | Pages: 153-161
+
+DOI: https://doi.org/10.1007/s12541-009-0024-2
+
+Development of a new approach for magnetorheological polishing process
+Authors: S. Jha, R.K. Kotnala
+
+Journal: The International Journal of Advanced Manufacturing Technology
+
+Volume: 38/5-6 | Year: 2008 | Pages: 560-570
+
+DOI: https://doi.org/10.1007/s00170-007-1176-2
+
+
+Conference Papers By Sunil Jha:-
+
+1.Authors: Z. Alam, D.A. Khan, F. Iqbal, S. Jha
+
+Title: Analysis of forces in ball end magnetorheological finishing process
+
+Event: Presented at 39th International MATADOR Conference on Advanced Manufacturing
+
+Date: 5th - 7th July 2017
+
+Location: University of Manchester, U.K.
+
+2.Authors: F Iqbal, S Jha
+
+Title: Nanofinishing of freeform surfaces using BEMRF
+
+Event: In Nanofinishing Science and Technology: Basic and Advanced Finishing and Polishing Processes
+
+Date: 2017 Jan 7
+
+Pages: pp. 235-264
+
+Publisher: CRC Press
+
+Status: Published
+
+3.Authors: D.A. Khan, Z. Alam, F. Iqbal, S. Jha
+
+Title: A study on the effect of polishing fluid composition in ball end magnetorheological finishing of aluminum
+
+Event: Presented at 39th International MATADOR Conference on Advanced Manufacturing
+
+Date: 5th - 7th July 2017
+
+Location: University of Manchester, U.K.
+
+4.Authors: F. Iqbal, Z. Alam, D.A. Khan, S. Jha
+
+Title: Localized finishing by ball end magnetorheological finishing process using integrated confocal sensor for in-situ surface roughness measurement
+
+Event: Presented at 39th International MATADOR Conference on Advanced Manufacturing
+
+Date: 5th - 7th July 2017
+
+Location: University of Manchester, U.K.
+
+5.Authors: D.A. Khan, Z. Alam, F. Iqbal, S. Jha
+
+Title: Experimental investigations on the effect of relative particle sizes of abrasive and iron powder in polishing fluid composition for ball end MR finishing of copper
+
+Event: Accepted for oral presentation in International conference COPEN 2017
+
+Date: December 2017
+
+6.Authors: Z. Alam, D.A. Khan, F. Iqbal, S. Jha
+
+Title: Effect of Polishing Fluid Composition on Forces in Ball End Magnetorheological Finishing Process
+
+Event: Accepted for oral presentation in International conference COPEN 2017
+
+Date: December 2017
+
+7.Authors: F. Iqbal, Z. Alam, D.A. Khan, S. Jha
+
+Title: Constant work gap perpetuation in ball end magnetorheological finishing process
+
+Event: Accepted for oral presentation in International conference COPEN 2017
+
+Date: December 2017
+
+8.Authors: A.K. Sahu, F Iqbal, S. Jha
+
+Title: Insitu geometrical measurements of microchannel on EN 31 steel by laser micromachining using confocal sensor
+
+Event: Accepted for oral presentation in International conference COPEN 2017
+
+Date: December 2017
+
+9.Authors: A. Kumar, F. Iqbal, S. Jha
+
+Title: Non-Contact measurement in plate bending using Confocal Microscopy
+
+Event: Accepted for oral presentation in International conference COPEN 2017
+
+Date: December 2017
+
+13.Authors: A.K. Singh, S. Jha, P.M. Pandey
+
+Title: A novel ball end magnetorheological finishing process
+
+Event: ASME International Mechanical Engineering Congress and Exposition
+
+Date: 2014
+
+Volume: V02BT02A032
+
+DOI: V02BT02A032
+
+15.Authors: A. K. Singh, S. Jha, P. M. Pandey
+
+Title: Nanofinishing process for 3D freeform surfaces using ball end MR finishing tool
+
+Event: MATADOR 2010
+
+Date: July 14-16, 2010
+
+Location: Manchester University, UK
+
+17.Authors: R. Sagar, P.M. Pandey, S. Nenavath, S. Jha, A. K. Darpe
+
+Title: Drilling of small transverse holes in the wire (SMA) by EDM
+
+Event: The International Conference on Shape Memory and Superelastic Technologies
+
+Date: 2010
+
+10.Authors: F. Iqbal, R. Rammohan, H. Patel, S. Jha
+
+Title: Design and development of automated workpiece cleaning system for ball end magneto-rheological finishing process
+
+Event: International Conference on Advances in Materials & Manufacturing, ICAMM 2016
+
+Location: PSG Tech Coimbatore, India
+
+Pages: pp. 289-295
+
+Volume: Vol. 1
+
+11.Authors: D.A. Khan, Z. Alam, S. Jha
+
+Title: Nanofinishing of copper using ball end magnetorheological finishing (BEMRF) process
+
+Event: ASME 2016
+
+Volume: V002T02A002
+
+DOI: V002T02A002
+
+12.Authors: D.A. Khan, S Jha
+
+Title: Selection of optimum polishing fluid composition for Ball end magnetorheological finishing (BEMRF) of copper
+
+Event: 6th International AIMTDR conference 2016
+
+Location: COE Pune
+
+14.Authors: A.K. Singh, S. Jha, P.M. Pandey
+
+Title: Rheological Behavior of MR polishing fluid In Ball End Magnetorheological Finishing Process
+
+Event:
+
+Pages: 512-515
+
+Volume: 49/3-4
+
+16.Authors: A. K. Singh, S. Jha, P. M. Pandey
+
+Title: A process of generating magnetically controlled ball end smart abrasive laden shape for nanofinishing of 3D intricate shaped surfaces
+
+Event: 2nd International Conference on Production and Industrial Engineering CPIE-2010
+
+Location: NIT Jalandhar
+
+18.Authors: S. Jha
+
+Title: Magnetorheological abrasive flow finishing process optimization using genetic algorithm
+
+Event: 2nd International All India Manufacturing Technology, Design and Research (AIMTDR 2008) Conference
+
+Location: IIT Madras, Chennai
+
+19.Authors: R.S. Nair, G. Karthikeyan, J. Ramkumar, S. Jha, Anil Varghese
+
+Title: Development of MAF setup for finishing of ultra high speed shafts
+
+Event: 2nd International All India Manufacturing Technology, Design and Research (AIMTDR 2008) Conference
+
+Location: IIT Madras, Chennai
+
+20.Authors: S. Jha, V.K. Jain, S.K. Choudhury
+
+Title: On the performance of abrasive flow finishing process
+
+Event:
+
+Pages: 216-223
+
+Volume: 2004
+
+
+
+
+
+
+
+Book Chapters by Sunil Jha:-
+Chapter	Title	Book Title	Editors/Authors	Publisher	Year	ISBN
+Chapter 5	Magnetorheological Nano Finishing Processes	Introduction to Micromachining	Prof. V. K. Jain	Narosa Publishing House Pvt. Ltd.	2010	978-81-7319-915-8
+Chapter 8	Nanofinishing Techniques	Micromanufacturing and Nanotechnology	Sunil Jha and V. K. Jain	Springer-Verlag	2006	3-540-25377-7
+Chapter 10	Nanofinishing of Free Form Surfaces using BEMRF	Nanofinishing Science and Technology: Basic and Advanced Finishing and Polishing Processes	Faiz Iqbal and Sunil Jha	CRC Press	2017	9781498745949
+
+
+
+
+FITT Consultancy Projects by sunil jha:-
+
+Project No.	Title	Start Date	Amount (₹)	Status
+FT/05/190	Indigenous development of MR Fluid and demonstration of Proto MR device	2011-08-02	21,35,250
+Ongoing
+FT/03/1856	Validation of Existing Tower Lightening and Earthing scheme as per Indian Standards	2015-11-02	5,01,510
+Closed
+FT/03/1820	Techno-Economic Study for Mechanization of conventional food grain storage warehouse	2015-06-09	11,86,522
+Closed
+FT/05/1670	Functional Testing and Validation of Sub-station monitoring system developed by BSES Yamuna Power Ltd.	2013-02-26	6,51,688
+Closed
+FT/05/208	Experimental Investigation into Magnetorheological Finishing of Glass	2013-02-20	9,84,000
+Closed
+FT/03/1604	Design and Development of Smart Energy Monitoring and Control Device	2012-04-10	25,00,000
+Closed
+FT/03/157	Validation of Selection and location of Surge Protection devices in Electrical Circuit at BTS Sites	2011-09-19	16,65,000
+Closed
+FT/03/156/1	Solar Panel Design and Optimization for running tubewell	2011-07-11	4,84,768
+Closed
+FT/03/156/2	Solar Power Operated Water Pump	2011-07-11	4,66,569
+Closed
+FT/05/172	Development of Power Distribution Simulator	2010-12-15	46,65,690
+Closed
+FT/03/153	Vetting of Technical Loss Computation of BYPL	2010-11-11	4,26,000
+Closed
+FT/03/153	Recommendation on Technical Loss Reduction of BYPL	2010-11-11	4,88,000
+Closed
+
+
+Patents by Sunil Jha:-
+Patent Summary
+Filed: 5
+Granted: 1
+Filed Patents
+Title	Application No.	Applicant	Inventors
+A device for magnetic Abrasive Finishing of multiple workpieces and Magnetic Abrasive Finishing Process	2309/DEL/2008	I.I.T. Kanpur	Sandeep R Nair, J. Ramkumar, Sunil Jha
+Process of generating magnetically controlled ball end smart abrasive laden shape for finishing of 3D intricate shaped surfaces	394/DEL/2010	I.I.T. Delhi	Sunil Jha, P. M. Pandey, Anant K. Singh
+Patent of addition on 'An improved magnetorheological finishing apparatus for stable, scalable and continuous finishing application'	2611/DEL/2011	I.I.T. Delhi	Sunil Jha, P. M. Pandey, Anant K. Singh
+Process and System for Nano-Finishing a Surface	201711038585	I.I.T. Delhi	Sunil Jha, Faiz Iqbal
+Bending of Orthopaedic Plates	201711038563	I.I.T. Delhi	Sunil Jha, Lalit Maini
+Granted Patents
+Title	Application No.	Applicant	Inventors
+An abrasive flow finishing device, an abrasive flow finishing process and Magnetorheological polishing fluid	1991/DEL/2005	I.I.T. Kanpur	Sunil Jha, Vijay Kumar Jain
+
+
+R&D Consulting By Sunil Jha:-
+R&D Consulting (PI)
+Conduct 2nd Meeting of Programme Advisory Committee on Device Development Programme of DST at Department of Mechanical Engineering
+Sponsor Agency: Department of Science & Technology (DST), India
+
+Amount: ₹1,200,000
+
+Duration: 25-07-2017 to 30-11-2017
+
+Design and Development of Magneto & Electro Rheological Systems
+Sponsor Agency: Defence Materials & Stores Research & Development, India
+
+Amount: ₹7,700,000
+
+Duration: 01-07-2017 to 31-12-2019
+
+Design and Development of Automated Flexible Abrasive Flow Finishing (AF-AFF) Process for Finishing of Micro to Macro Complex Features
+Sponsor Agency: Department of Science & Technology (DST), India
+
+Amount: ₹4,307,380
+
+Duration: 09-09-2016 to 08-09-2019
+
+Advanced CNC Micromachining System with Integrated Micro Tool Manufacturing
+Sponsor Agency: Department of Science & Technology (DST), India
+
+Amount: ₹31,743,619
+
+Duration: 11-05-2016 to 10-05-2019
+
+Laser Based Marksmanship and Tactical Training Simulator (LMTTS)
+Sponsor Agency: Simulator Development Division (Indian Army), India
+
+Amount: ₹4,900,000
+
+Duration: 24-02-2015 to 23-02-2018
+
+Design & Development of CNC Magnetorheological Finishing (MRF) System
+Sponsor Agency: Department of Science & Technology (DST), India
+
+Amount: ₹12,239,200
+
+Duration: 06-09-2012 to 31-03-2016
+
+Magnetorheological Evaluation of Smart Polishing Fluid Properties and their Role in Nanofinishing
+Sponsor Agency: Department of Science & Technology (DST), India
+
+Amount: ₹1,260,000
+
+Duration: 16-03-2009 to 15-03-2012
+
+R&D Consulting (CP)
+Energy Efficient Buildings: Technology with Intelligence
+Sponsor Agency: Department of Science & Technology (DST), India
+
+Amount: ₹31,841,600
+
+Duration: 03-04-2017 to 02-04-2020
+
+Modelling of Advanced Materials for Simulation of Transformative Manufacturing Processes
+Sponsor Agency: International Division, Dept. of Science & Techn., United Kingdom
+
+Amount: ₹10,043,600
+
+Duration: 16-12-2014 to 31-03-2018
+
+Development of Cryogenically Coupled Vibratory EDM Processes to Machine Hard Materials and Conducting Ceramics
+Sponsor Agency: Department of Science & Technology (DST), India
+
+Amount: ₹3,575,000
+
+Duration: 07-10-2010 to 31-03-2014
+
+Adaptive Force Control of an Industrial Robot (KUKA KR-6) Equipped with Force/Torque Sensor (Sub-project #4 under the main project #RP02346)
+Sponsor Agency: Board of Research in Nuclear Sciences (DAE), India
+
+Amount: ₹14,300,800
+
+Duration: 04-05-2010 to 31-07-2016
+
+Experimental Investigations and Analysis of Ultrasonic Assisted Magnetic Abrasive Finishing (UAMAF) Process
+Sponsor Agency: Council of Scientific & Industrial Research, India
+
+Amount: ₹2,735,476
+
+Duration: 15-11-2009 to 30-11-2013
+
+
+Supervisions by Sunil Jha:-
+Supervised Thesis Summary
+Level	Individual Supervised	Jointly Supervised	Total
+M.Tech.	13	2	15
+M.S. (Orthopaedics)	0	3	3
+Ph.D.	8	5	13
+B.Tech Projects	10	0	10
+Ph.D. Supervision
+ID	Name	Title	Status
+2009MEZ8555	Mahendra Singh Niranjan	Experimental Investigations into Magnetorheological Polishing Fluid Synthesis	Completed
+2011MEZ8361	Dilshad Ahmad Khan	Magnetorheological Finishing of Soft and Ductile Materials	Submitted
+2013MEZ8466	Faiz Iqbal	Manufacturing Automation	In Progress
+2014IDZ8007	Vinod Mishra	Fabrication of Freeform Optical Components and Finishing	In Progress
+2014MEZ8018	Zafar Alam	Performance Improvement of Ball-End Magnetorheological Finishing Process	In Progress
+2015MEZ8444	Harish Kumar	Micro Electric Discharge Turning	In Progress
+2016MEZ8268	Jitin Malhotra	Precision Machine Control	In Progress
+2016MEZ8553	Ashish Kumar Sahu	Laser Micromachining	In Progress
+M.Tech. Supervision
+ID	Title	Student
+2008MEP2707	Experimental Investigations into Micro EDM	Ritesh Dadhich
+Mathematical Modelling of Finishing Forces During Ball End Magnetorheological Finishing Process	Santosh Singh Rawat
+Development of CNC MRF Machine	Vamsi Krishna
+Rheological Modeling of Magnetorheological Polishing Fluid	Amitesh Kumar
+3D Surface Finishing by Ball End Magnetorheological Finishing	Ravi Verma
+Design and Development of Nano-Pulsed EDM	Zafar Alam
+2012MEP2714	Development of MRF Machine Controller Using PLC	Jayant Kumar
+2012MEP2716	Magnetorheological Nano Finishing of Transparent Plastics	Kartik Parsija
+2012MEP2709	Analysis and Mathematical Modelling of MRF Process	Ankush Mohan
+2012MEP3050	Design and Development of Turn-MRF System	Manish Kumar
+2013MEP2670	Online Surface Roughness Measurement in Ball-End Magnetorheological Finishing Process	Mayank Garg
+2016MEP2777	Development of Cyber-physical System of a Linear Slide	Madhur Shukla
+2016MEP2929	Development of Cyber-Physical System for CNC BEMRF Machine	
+B.Tech. Supervision
+ID	Title
+2007ME10473	Virtual Instrumentation of Rheometer
+2006ME20576	Development of SMD Pick And Place System
+2006ME20562, 2005ME10487	Deterministic Magnetorheological - Finishing Setup
+2010ME20780, 2010ME20777	Effect Of FDM Process Parameters On Mechanical Properties Of PLA Parts
+2010ME20778, 2010ME20914	Part Program Parser For CNC MRF Controller Using Rockwell PLC
+2010ME20783, 2010ME20782	Design And Development Of 5 Axis Ball End MRF Machine Controller Using Twin Cat Platform
+Two Axis Motion Controller Using PLC
+Design And Fabrication Of Power Controller For Electric Power Assisted Rickshaw
+Motion Controller For 3D MRF (Magnetorheological Finishing) Machine
+Optimization Of MRF (Magneto Rheological Finishing) for Glass
+
+
+
+
+Awards and Recognitions of Sunil Jha:-
+Sr. No.	Year	Agency	Award/Honor Name
+1	2016	Manufacturing Today	National Technical Institutes Competition
+2	2017	GYTI	Gandhian Young Technological Innovation Award
+3	2016	Aditya Birla Group	National Technical Institutes Competition
+
+
+
+
+Teaching Experience of Sunil Jha:-
+Positions Held
+Institute	Period	Position
+I.I.T. Delhi	Aug 2018 – Present	Professor
+I.I.T. Delhi	Dec 2012 – Aug 2018	Associate Professor
+I.I.T. Delhi	July 2007 - Dec 2012	Assistant Professor
+Courses Taught
+MEL120: Manufacturing Practices
+MCP101: Product Realization by Manufacturing
+MEP201: Mechanical Engineering Drawing
+MEP202: Design Innovation & Manufacturing
+MEL334: Low Cost Automation
+MEL411: Mechatronics
+MCL431: CAM & Automation
+MEL432: Microprocessor Applications in Manufacturing
+MEL749: Mechatronic Product Design
+MEL783: Automation in Manufacturing
+MCL784: Computer Aided Manufacturing
+Developed New Courses
+MCL431: CAM & Automation
+
+
+Industrial Experience of Sunil Jha:-
+Company	Period	Position
+I.I.T. Kanpur	Dec 2006 – July 2007	Sr. Project Engineer (BARC Sponsored Project)
+TATA Motors	May 1998 – July 2000	Sr. Engineer (CAD/CAM)
+IAFSM	Present	Founder/Director
+
+
+
+Other Activities:-
+Leading Institute team of faculty and students on Driverless Car development for the Mahindra Driverless Car Challenge.
+Leading project on “Smart Manufacturing” funded by the Department of Heavy Industry & Automation Industry Association to set up a facility for Smart Manufacturing training and research. Setting up a lab and Smart Factory with state-of-the-art technologies.
+
+Contact Of Sunil Jha:-
+
+Prof. Sunil Jha
+Professor, Department of Mechanical Engineering, IIT Delhi
+
+Email
+suniljha [at] iitd [dot] ac [dot] in
+
+Address
+Department of Mechanical Engineering,
+IIT Delhi, Hauz Khas,
+New Delhi, India
+
+Website Designed and created by Vasu Sharma
